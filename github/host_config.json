@@ -1,5 +1,5 @@
 {
-	"token": "<evalai_user_auth_token>",
-	"team_pk": "<host_team_pk>",
-	"evalai_host_url": "<evalai_host_url>"
+	"token": "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",
+	"team_pk": "1",
+	"evalai_host_url": "https://4c60-2610-148-1f00-3000-5814-802e-238c-b5e4.ngrok.io"
 }
