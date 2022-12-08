@@ -1,5 +1,5 @@
 {
-	"token": "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",
-	"team_pk": "1",
-	"evalai_host_url": "http://63a3-2610-148-1f00-3000-5814-802e-238c-b5e4.ngrok.io"
+	"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTY5MzA3MTk4MCwianRpIjoiNDZlMjA4N2NlMWI3NDVhZjhiOTkyZDNhOWY2ZjA2NGMiLCJ1c2VyX2lkIjozODJ9.DEEeJpF6_9dIVdpGFEQyzGm5qSVi8QRiHGN3m1yXov4",
+	"team_pk": "223",
+	"evalai_host_url": "https://staging.eval.ai"
 }
