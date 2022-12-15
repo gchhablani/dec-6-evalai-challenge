@@ -48,6 +48,12 @@ challenge_phases:
     max_submissions_per_month: 50
     max_submissions: 50
     default_submission_meta_attributes:
+      - name: method_name
+        is_visible: True
+      - name: method_description
+        is_visible: True
+      - name: publication_url
+        is_visible: True
     submission_meta_attributes:
       - name: TextAttribute
         description: Sample
@@ -91,10 +97,6 @@ challenge_phases:
         description: Sample
         type: text
       - name: SingleOptionAttribute
-        description: Sample
-        type: radio
-        options: ["A", "B", "C"]
-      - name: SingleOptionAttribute2
         description: Sample
         type: radio
         options: ["A", "B", "C"]
